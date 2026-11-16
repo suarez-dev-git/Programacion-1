@@ -8,6 +8,7 @@
 # El jugador puede pedir carta o plantarse y después juega el dealer
 #
 # Se uso pygame
+# Al final de cada ronda se compara el total del jugador con el de la banca
 
 # Aquí importa los módulos a usar
 import random   # sirve para mezclar la baraja

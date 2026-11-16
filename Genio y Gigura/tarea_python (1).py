@@ -4,6 +4,7 @@ Descripción: Programa que dibuja cierta figura que selecciones con cierta longi
 Autor: Angel Gustavo Camargo Bermudez y Luis Suarez Garcia.
 Fecha: 11-04-26
 """
+# fue dificil
 
 #################################### Función que dibuja los objetos ####################################
 def imprimir_fila(ancho: int, espacios: int, simbolo: str, rellena: bool, borde: bool) -> None:
