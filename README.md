@@ -11,10 +11,13 @@ Recreacion del juego de cartas black jack
 Genera tu CURP al ingresar ciertos datos y devolviendolos como letras de la CURP hasta completarla.
 
 ## Genio y figura
-Genera figuras de distintos tamaños, tienes varias opciones de generacion, las figuras se generan con el simbolo que ingresa el usuario.
+Genera figuras de distintos tamaños, tienes varias opciones de generacion, las figuras se generan con el simbolo que ingresa el usuario
 
 ## IMC calculdor de calorias
 A travez de una formula y cierto datos ingresados por el usuario se calcula su IMC.
 
 ## Opercion rescate
 Dadas 3 calificaciones te calcula el promedio, te clasifica y te dice metas alcanzables de promedios de 60 o 90.
+
+## Adivina la frase
+Programa realizado como parte del segundo examen de Programacion 1

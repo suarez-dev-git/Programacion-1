@@ -1,10 +1,10 @@
 """
-Nombre del archivo: tarea_4_python.psc
+Nombre del archivo: tarea_4_python.py
 Descripción: Programa que dibuja cierta figura que selecciones con cierta longitud y con el signo que designes.
-Autor: Angel Gustavo Camargo Bermudez y Luis Suarez Garcia.
+Autor: Angel Gustavo Camargo Bermudez y Luis Suarez Garcia
 Fecha: 11-04-26
 """
-# fue dificil
+# Genera figuras de distintos tamaños, tienes varias opciones de generacion, las figuras se generan con el simbolo que ingresa el usuario
 
 #################################### Función que dibuja los objetos ####################################
 def imprimir_fila(ancho: int, espacios: int, simbolo: str, rellena: bool, borde: bool) -> None:
