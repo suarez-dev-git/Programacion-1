@@ -1,5 +1,5 @@
 """
-Nombre del archivo: tarea_4_python.py
+Nombre del archivo: Genio y figura
 Descripción: Programa que dibuja cierta figura que selecciones con cierta longitud y con el signo que designes.
 Autor: Angel Gustavo Camargo Bermudez y Luis Suarez Garcia
 Fecha: 11-04-26
